@@ -9,7 +9,7 @@ Rails.application.routes.draw do
 
   get 'welcome/faq'
 
-  get 'welcome/pricing'
+  get 'welcome/pricing' 
 
   resources :invoices
 
